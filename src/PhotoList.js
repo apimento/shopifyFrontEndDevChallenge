@@ -22,11 +22,13 @@
       //   return
       // }
       return (   
-      allPhotos = this.props.photos.map((photo) => {   
+      allPhotos = this.props.photos.map((photo) => {  
+        return( 
             <div> 
           <PhotoRow photo={photo} key={photo.id}> </PhotoRow> 
           {this.allPhotos}
             </div> 
+        ) 
       })
       )
     }

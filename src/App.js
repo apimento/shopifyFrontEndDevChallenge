@@ -14,7 +14,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>Spacestagram</h1> 
-        <PhotoList photos={NASA.photos}> </PhotoList>
+        <PhotoList photos={NASA.photos}> hello </PhotoList>
 
 
       </div>

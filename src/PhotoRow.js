@@ -11,7 +11,6 @@ export default class PhotoRow extends Component {
     return ( 
         <div>  
         <div>   
-          <h1>Please work for me</h1>
           <Photo image={this.image}> </Photo> 
         </div> 
         <div className='photo-summary'> 
