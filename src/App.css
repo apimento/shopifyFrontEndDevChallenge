@@ -18,12 +18,12 @@ body {
 button { 
   width: 7em; 
   height: 3em; 
-  border-radius: 10%;
+  border-radius: 10%; 
 } 
 
 button:hover{ 
-  background-color: rgb(179, 168, 168); 
-  color:aliceblue;
+  background-color: rgb(67, 149, 255); 
+  color:rgb(255, 255, 255);
 }
 
 .title{ 
