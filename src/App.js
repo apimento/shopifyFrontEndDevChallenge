@@ -1,10 +1,24 @@
-import React from 'react'
+import React, { Component } from 'react' 
+import NASA from './NASA.js' 
+import PhotoList from './PhotoList.js'
 
-function App() {
+export default class App extends Component {
 
-    return (
-      <div>App</div>
-    )
+  state={ 
+    photos: NASA.photos, 
   }
 
-export default App
+
+
+  render() {
+    return (
+      <div>
+        <h1>Spacestagram</h1> 
+        <PhotoList photos={NASA.photos}> </PhotoList>
+
+
+      </div>
+    )
+  }
+}
+
