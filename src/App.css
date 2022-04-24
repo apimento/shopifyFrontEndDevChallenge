@@ -19,6 +19,11 @@ button {
   width: 7em; 
   height: 3em; 
   border-radius: 10%;
+} 
+
+button:hover{ 
+  background-color: rgb(179, 168, 168); 
+  color:aliceblue;
 }
 
 .title{ 
