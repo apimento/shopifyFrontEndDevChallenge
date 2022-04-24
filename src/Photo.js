@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-function Photo(props) {
-
+export default class Photo extends Component {
+  render() {
     return (
-      <div>{props.image}</div>
+        <div>{this.props.image}</div>
     )
-} 
+  }
+}
 
-export default Photo

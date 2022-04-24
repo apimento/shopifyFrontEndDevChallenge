@@ -1,21 +1,24 @@
-import React from 'react' 
-import Photo from './Photo'
+import React, { Component } from 'react' 
+import Photo from './Photo' 
 
-function PhotoRow(props) { 
+export default class PhotoRow extends Component { 
 
-    console.log(props.photo.id)
+    image= (this.props.photo.img_src) 
 
-    let image= (`${props.photo.img_src}`)
+  render() {
 
-    return (
-      <div> 
+    return ( 
+        <div>  
+        <div>   
           <h1>Please work for me</h1>
-          <Photo image={image}> </Photo> 
-          <h1>{props.photo.camera.full_name}</h1> 
-          <h2>{props.photo.rover.name}</h2> 
-          <h3>{props.photo.earth_date}</h3>
-      </div>
+          <Photo image={this.image}> </Photo> 
+        </div> 
+        <div className='photo-summary'> 
+          <h1>{this.props.photo.camera.full_name}</h1> 
+          <h2>{this.props.photo.rover.name}</h2> 
+          <h3>{this.props.photo.earth_date}</h3>
+        </div>
+    </div>
     )
+  }
 }
-
-export default PhotoRow
