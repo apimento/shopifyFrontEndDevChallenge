@@ -5,7 +5,8 @@ export default class PhotoRow extends Component {
 
     image= (this.props.photo.img_src) 
 
-  render() {
+  render() { 
+      console.log('PhotoRow component works!')
 
     return ( 
         <div>  
