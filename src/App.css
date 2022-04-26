@@ -28,11 +28,34 @@ button:hover{
 
 .likeButton.remove_from_liked{ 
   background-color: rgb(52, 211, 214);
+  -webkit-transform: scale(1, 1);
+  transform: scale(1, 1);
 } 
 
-.img.remove_from_liked{ 
-  border: 3px solid rgb(52, 211, 214);
+@keyframes beat {
+  0% {
+    -webkit-transform: scale(1, 1);
+            transform: scale(1, 1);
+  }
+  100% {
+    -webkit-transform: scale(0.8,0.8);
+            transform: scale(0.8, 0.8);
+  }
 }
+
+.likeButton.remove_from_liked:focus {
+  -webkit-animation: beat 1s ease-in-out backwards;
+          animation: beat 1s ease-in-out backwards;
+}
+.likeButton.remove_from_liked:active {
+  -webkit-animation: none;
+          animation: none;
+}
+
+
+/* .img.remove_from_liked{ 
+  border: 3px solid rgb(52, 211, 214);
+} */
 
 .title{ 
   text-align: center;
