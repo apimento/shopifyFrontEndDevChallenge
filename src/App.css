@@ -44,8 +44,8 @@ button:hover{
 }
 
 .likeButton.remove_from_liked:focus {
-  -webkit-animation: beat 1s ease-in-out backwards;
-          animation: beat 1s ease-in-out backwards;
+  -webkit-animation: beat 0.3s ease-in-out backwards;
+          animation: beat 0.3s ease-in-out backwards;
 }
 .likeButton.remove_from_liked:active {
   -webkit-animation: none;
