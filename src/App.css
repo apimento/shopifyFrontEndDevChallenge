@@ -11,14 +11,14 @@ body {
   padding: 5px;
   align-items: center;
   width: 55em;  
-  /* border-radius: 7%;  */
+  border-radius: 4%; 
   color: rgb(58, 57, 57);
 } 
 
 button { 
   width: 7em; 
   height: 3em; 
-  border-radius: 10%; 
+  border-radius: 10%;  
 } 
 
 button:hover{ 
@@ -55,7 +55,7 @@ img{
   max-width:95%; 
   height: 30em;
   border: 3px solid rgb(249, 250, 194);
-  /* border-radius: 7%;   */
+  border-radius: 4%;  
   margin-top: 1em;
 }
 

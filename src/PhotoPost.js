@@ -1,6 +1,6 @@
 import React, { Component } from 'react' 
 import Photo from './Photo'  
-import LikeButton from './LikeButton'
+import LikeButton from './LikeButton'  
 
 export default class PhotoPost extends Component { 
 
@@ -16,7 +16,7 @@ export default class PhotoPost extends Component {
                 <h1>Mars Rover: {this.props.photo.rover.name}</h1> 
                 <h3>{this.props.photo.camera.full_name}</h3> 
                 <h3>{this.props.photo.earth_date}</h3> 
-                <LikeButton isLiked={this.props.isLiked} onLikeToggle={() => this.props.onLikeToggle(this.props.photo)}></LikeButton>
+                <LikeButton isLiked={this.props.isLiked} onLikeToggle={() => this.props.onLikeToggle(this.props.photo)}></LikeButton> 
             </div>
         </div>
     )
