@@ -28,6 +28,9 @@ button:hover{
 
 .likeButton.remove_from_liked{ 
   background-color: rgb(52, 211, 214);
+  color:rgb(255, 255, 255); 
+  font-weight: bold;
+  font-size: 17px;
   -webkit-transform: scale(1, 1);
   transform: scale(1, 1);
 } 
