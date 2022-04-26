@@ -1,6 +1,6 @@
 import React, { Component } from 'react' 
-import NASA from './NASA.js' 
-import PhotoList from './PhotoList.js' 
+import NASA from './NASA.jsx' 
+import PhotoList from './PhotoList.jsx' 
 import './App.css'  
 import axios from "axios" 
 // import LikeButton from './LikeButton.js'
