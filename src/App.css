@@ -1,17 +1,17 @@
 body { 
-  background-image: url("https://media.npr.org/assets/img/2015/03/31/stars-d1900fc64ba48ac3633054f03a7864aa601973f3-s1600-c85.webp"); 
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/80/Hyades.jpg"); 
+  /* background-size: cover; */
+  /* background-image: linear-gradient(rgb(39, 39, 37), rgb(27, 27, 25)); */
 }
 
 .post{ 
   background-image: linear-gradient(rgb(196, 199, 180), rgb(211, 211, 142)); 
-  margin-top: 100px;  
+  /* margin-top: 100px;   */
   margin: 100px auto;
   padding: 5px;
   align-items: center;
   width: 55em;  
-  border-radius: 7%; 
+  /* border-radius: 7%;  */
   color: rgb(58, 57, 57);
 } 
 
@@ -24,6 +24,14 @@ button {
 button:hover{ 
   background-color: rgb(67, 149, 255); 
   color:rgb(255, 255, 255);
+} 
+
+.likeButton.remove_from_liked{ 
+  background-color: rgb(52, 211, 214);
+} 
+
+.img.remove_from_liked{ 
+  border: 3px solid rgb(52, 211, 214);
 }
 
 .title{ 
@@ -41,14 +49,13 @@ button:hover{
 .photo-summary{ 
   text-align: center;  
   margin-bottom: 2.5em;
-
 } 
 
 img{ 
   max-width:95%; 
   height: 30em;
   border: 3px solid rgb(249, 250, 194);
-  border-radius: 7%;  
+  /* border-radius: 7%;   */
   margin-top: 1em;
 }
 
