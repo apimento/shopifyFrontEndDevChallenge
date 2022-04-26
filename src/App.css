@@ -1,20 +1,14 @@
-/* *{ 
-  font-family: 'Ubuntu', sans-serif;
-} */
-
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 body { 
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/80/Hyades.jpg");  
   font-family: 'Ubuntu', sans-serif;
-  /* background-size: cover; */
-  /* background-image: linear-gradient(rgb(39, 39, 37), rgb(27, 27, 25)); */
 }
 
 .post{ 
   background-image: linear-gradient(rgb(196, 199, 180), rgb(211, 211, 142)); 
   /* margin-top: 100px;   */
-  margin: 100px auto;
+  margin: 2em auto;
   padding: 5px;
   align-items: center;
   width: 55em;  
@@ -78,6 +72,7 @@ button:hover{
   text-align: center; 
   color:rgb(206, 217, 226);  
   font-size: 20px;
+  transform: translateY(-45px);
 }
 
 .photo-summary{ 
