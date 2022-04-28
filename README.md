@@ -10,19 +10,19 @@ as part of General Assembly's Software Engineering immersive program. Having onl
 completely immersed in learning and using various lamguages, libraries and technologies to not only solve problems, but make 
 ideas come to life in didgital space. I'm hooked. 
 
-I wanted to not only meet the basic technical requirements for this challenge, but also use design choices to communicate
-a strong sense of storytelling in conveying the world of the app, while create a delightful experience for users.
+I didn't want to only meet the basic technical requirements for this challenge. Thus, my aim was to use specific visual and 
+interactive design choices to communicate a strong sense of storytelling, and create a delightful experience for users. 
 
 
 
-#### Wireframes ####
+### Wireframes ###
 Below are some wireframes from the app that I built: 
 
 
 
 
 
-#### Challenges ####
+### Challenges ###
 My biggest challemge in building this app, was making sure that my onClick function targeted one specific image file rendered 
 after mapping through all the available images form the API. 
 
