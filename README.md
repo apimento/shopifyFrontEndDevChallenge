@@ -1,8 +1,8 @@
 # SPACESTAGRAM #
-## Andrew Pimento Front-End Developer Internship Application 2022 ## 
+## Andrew Pimento: Shopify Front-End Developer Internship Application 2022 ## 
 
 Hey, and thank you for taking the time to review my application! :) 
-I'm so excited to be sharing this with you because I'd love to be a part of this program. 
+I'm so excited to be sharing this with you. I'd love to be a part of this program and part of the Shopify team. 
 
 Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api. 
 
