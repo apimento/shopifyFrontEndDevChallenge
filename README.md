@@ -6,6 +6,10 @@ I'm so excited to be sharing this with you because I'd love to be a part of this
 
 Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api. 
 
+### Experience ###
+Throughout the process, I used Postman to check my API calls. 
+I used Axios to make HTTP Requests
+
 This technical challenge was a excellent opportunity for me to practice all the skills I've been learning over the past 12 weeks
 as part of General Assembly's Software Engineering immersive program. 
 
@@ -26,22 +30,17 @@ My biggest challemge in building this app, was making sure that my onClick funct
 after mapping through all the available images form the API. 
 
 
-#### Experience ####
-Throughout the process, I used Postman to check my API calls. 
-I used Axios to make HTTP Requests
-
-#### Icebox #### 
+### Icebox ###
 
 Image Sharing + across social media platforms
 
-
-Back-End:
-Implement authentication and authorisation
-Users profiles :
-Create User profile pages (cutomizable?)
-Save user's likes to profile  
-Comments for each photo :
-Save comments to photos, and users to comments
+Back-End: 
+1. Users profiles :
+- Implement authentication and authorisation
+- Create User profile pages (cutomizable?)
+- Save user's likes to profile  
+2. Comments for each photo :
+- Save comments to photos, and users to comments
 
 
 
