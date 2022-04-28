@@ -41,7 +41,10 @@ after mapping through all the available images form the API.
 
 ### Icebox ###
 
-Image Sharing + across social media platforms
+Front End:
+- Image Sharing + across social media platforms
+- Add comment input field and button
+
 
 Back-End: 
 1. Users profiles :
@@ -52,7 +55,8 @@ Back-End:
 2. Comments for each photo :
 - Save comments to photos, and users to comments 
 - Display comments along with user name
-- Add comment input field and button
+
+
 
 
 
