@@ -2,6 +2,7 @@
 ## Andrew Pimento Front-End Developer Internship Application 2022 ## 
 
 Hey, and thank you for taking the time to review my application! :) 
+I'm so excited to be sharing this with you because I'd love to be a part of this program. 
 
 Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api. 
 
