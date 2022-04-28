@@ -43,7 +43,7 @@ after mapping through all the available images form the API.
 
 Front End:
 - Image Sharing + across social media platforms
-- Add comment input field and button
+- Add comment input field and "post" button
 
 
 Back-End: 
