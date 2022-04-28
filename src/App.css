@@ -9,11 +9,12 @@ body {
   background-image: linear-gradient(rgb(196, 199, 180), rgb(211, 211, 142)); 
   /* margin-top: 100px;   */
   margin: 2em auto;
-  padding: 5px;
+  padding: 1px;
   align-items: center;
-  width: 55em;  
+  width: 35em;  
   border-radius: 4%; 
   color: rgb(58, 57, 57);
+  transform: translateY(-74px);
 } 
 
 button { 
@@ -58,23 +59,20 @@ button:hover{
 }
 
 
-/* .img.remove_from_liked{ 
-  border: 3px solid rgb(52, 211, 214);
-} */
-
 .title{ 
   text-align: center;
   color:rgb(228, 243, 255); 
   font-size: 100px; 
   -webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: rgb(211, 211, 142);
+-webkit-text-stroke-color: rgb(211, 211, 142); 
+   transform: translateY(-50px);
 }  
 
 .byline{ 
   text-align: center; 
   color:rgb(206, 217, 226);  
   font-size: 20px;
-  transform: translateY(-45px);
+  transform: translateY(-95px);
 }
 
 .photo-summary{ 
@@ -84,7 +82,7 @@ button:hover{
 
 img{ 
   max-width:95%; 
-  height: 30em;
+  height: 19em;
   border: 3px solid rgb(249, 250, 194);
   border-radius: 4%;  
   margin-top: 1em;
