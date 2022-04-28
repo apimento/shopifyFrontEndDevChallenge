@@ -39,6 +39,7 @@ Back-End:
 - Implement authentication and authorisation
 - Create User profile pages (cutomizable?)
 - Save user's likes to profile  
+- Floating profile icon that when clicked, displays a dropdown menu
 2. Comments for each photo :
 - Save comments to photos, and users to comments
 
