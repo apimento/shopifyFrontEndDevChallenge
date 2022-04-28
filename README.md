@@ -28,9 +28,9 @@ I used Postman to check my API calls. It made my work much more efficient.
 
 
 ### Wireframes ###
-<img width="1595" alt="Screen Shot 2022-04-28 at 12 26 12 AM" src="https://user-images.githubusercontent.com/98665437/165676820-9fd4953c-9763-4957-8525-694316c14777.png">
+<img width="1661" alt="Screen Shot 2022-04-28 at 5 40 58 PM" src="https://user-images.githubusercontent.com/98665437/165850890-ac3f057b-39f5-445a-83f7-efb17eed060d.png">
 
-<img width="1596" alt="Screen Shot 2022-04-28 at 12 26 59 AM" src="https://user-images.githubusercontent.com/98665437/165676837-f2906eec-75ef-4230-b89e-2cfff2b6aadc.png">
+<img width="1661" alt="Screen Shot 2022-04-28 at 5 41 59 PM" src="https://user-images.githubusercontent.com/98665437/165850943-f2d20cf4-688f-49bf-959e-67a3a7686bb1.png">
 
 
 
