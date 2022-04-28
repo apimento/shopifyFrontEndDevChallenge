@@ -9,14 +9,16 @@ export default class PhotoPost extends Component {
   render() { 
     return ( 
         <div className='post'>  
+            <div> 
             <div className='photo-summary'> 
-            <div>   
                 <Photo image={this.image}> </Photo> 
-            </div> 
+                <div className="photo-details"> 
                 <h2>Mars Rover: {this.props.photo.rover.name}</h2> 
                 <h4>{this.props.photo.camera.full_name}</h4> 
                 <h4>{this.props.photo.earth_date}</h4> 
                 <LikeButton isLiked={this.props.isLiked} onLikeToggle={() => this.props.onLikeToggle(this.props.photo)}></LikeButton> 
+                </div>
+            </div> 
             </div>
         </div>
     )
