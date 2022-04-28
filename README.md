@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# SPACESTAGRAM #
+## Andrew Pimento Front-End Developer Internship Application 2022 ## 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey, and thank you for taking the time to review my application! :) 
 
-## Available Scripts
+Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api. 
 
-In the project directory, you can run:
+This technical challenge was a excellent opportunity for me to practice all the skills I've been learning over the past 12 weeks
+as part of General Assembly's Software Engineering immersive program. Having only started coding this past January, I have been 
+completely immersed in learning and using various lamguages, libraries and technologies to not only solve problems, but make 
+ideas come to life in didgital space. I'm hooked. 
 
-### `npm start`
+I wanted to not only meet the basic technical requirements for this challenge, but also use design choices to communicate
+a strong sense of storytelling in conveying the world of the app, while create a delightful experience for users.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#### Wireframes ####
+Below are some wireframes from the app that I built: 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Challenges ####
+My biggest challemge in building this app, was making sure that my onClick function targeted one specific image file rendered 
+after mapping through all the available images form the API. 
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+####  ####
+Throughout the process, I used Postman to check my API calls. 
+I used Axios to make HTTP Requests
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
