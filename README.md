@@ -4,7 +4,16 @@
 Hey, and thank you for taking the time to review my application! :) 
 I'm so excited to be sharing this with you. I'd love to be a part of this program and part of the Shopify team. 
 
-Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api. 
+Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api.  
+
+### Languages and Technologies ### 
+- Javascript 
+- React 
+- CSS 
+- Axios
+- Postman
+- Google Fonts 
+- NASA's Mars Rover Photos API
 
 ### Experience ###
 
@@ -14,8 +23,7 @@ as part of General Assembly's Software Engineering immersive program.
 I didn't want to simply meet the basic technical requirements for this challenge. Thus, my aim was to use specific visual and 
 interactive design choices to communicate a strong sense of storytelling and create a delightful user experience.  
 
-Throughout the process, I used Postman to check my API calls. 
-I used Axios to make HTTP Requests
+I used Postman to check my API calls. It made my work much more efficient. 
 
 
 
