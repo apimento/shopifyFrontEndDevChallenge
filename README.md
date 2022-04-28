@@ -1,5 +1,5 @@
 # SPACESTAGRAM #
-## Andrew Pimento: Shopify Front-End Developer Internship Application 2022 ## 
+## Andrew Pimento: Shopify Front-End Developer Internship Application 2022 (Technical Challenge) ## 
 
 Hey, and thank you for taking the time to review my application! :) 
 I'm so excited to be sharing this with you. I'd love to be a part of this program and part of the Shopify team. 
@@ -7,14 +7,15 @@ I'm so excited to be sharing this with you. I'd love to be a part of this progra
 Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api. 
 
 ### Experience ###
-Throughout the process, I used Postman to check my API calls. 
-I used Axios to make HTTP Requests
 
-This technical challenge was a excellent opportunity for me to practice all the skills I've been learning over the past 12 weeks
+This was a excellent opportunity for me to practice all the skills I've been learning over the past 12 weeks
 as part of General Assembly's Software Engineering immersive program. 
 
 I didn't want to simply meet the basic technical requirements for this challenge. Thus, my aim was to use specific visual and 
-interactive design choices to communicate a strong sense of storytelling, and create a delightful experience for users. 
+interactive design choices to communicate a strong sense of storytelling and create a delightful user experience.  
+
+Throughout the process, I used Postman to check my API calls. 
+I used Axios to make HTTP Requests
 
 
 
