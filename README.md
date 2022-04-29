@@ -6,7 +6,7 @@ I'm so excited to be sharing this with you. I'd love to be a part of this progra
 
 Spacestagram is a Javascript React Front-End application using imge files pulled from NASA's Mars Rover Camera Api.  
 
-### Languages and Technologies ### 
+### Languages, Technologies and Libraries ### 
 - Javascript 
 - React 
 - CSS 
